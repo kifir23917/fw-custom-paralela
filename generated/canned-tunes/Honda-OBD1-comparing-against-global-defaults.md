@@ -103,14 +103,6 @@
 	cannedboostTableOpenLoop();
 	cannedscriptTable4();
 	cannedignitionTable();
-	cannedignBlends1_rpmBins();
-	cannedignBlends2_rpmBins();
-	cannedignBlends3_rpmBins();
-	cannedignBlends4_rpmBins();
-	cannedveBlends1_rpmBins();
-	cannedveBlends2_rpmBins();
-	cannedveBlends3_rpmBins();
-	cannedveBlends4_rpmBins();
 	cannedveTable();
 	cannedlambdaTable();
 	cannedgppwm1_rpmBins();
